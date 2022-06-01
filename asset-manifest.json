@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/covid_19_Analiz/static/css/main.82aa3e42.css",
+    "main.js": "/covid_19_Analiz/static/js/main.de67cf22.js",
+    "static/media/logo.png": "/covid_19_Analiz/static/media/logo.a4db5388ef16ab2ccc91.png",
+    "static/media/3314914_810x458.jpg": "/covid_19_Analiz/static/media/3314914_810x458.1204f89efc5c435a6158.jpg",
+    "index.html": "/covid_19_Analiz/index.html",
+    "main.82aa3e42.css.map": "/covid_19_Analiz/static/css/main.82aa3e42.css.map",
+    "main.de67cf22.js.map": "/covid_19_Analiz/static/js/main.de67cf22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82aa3e42.css",
+    "static/js/main.de67cf22.js"
+  ]
+}
